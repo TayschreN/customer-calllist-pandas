@@ -3,7 +3,6 @@
 ## Sobre o Projeto:
 
 Este projeto tem como objetivo realizar a limpeza e padronização de uma base de dados contendo informações de clientes para contato telefônico.
-
 O foco principal foi aplicar técnicas de **Data Cleaning** utilizando Python e Pandas, garantindo que os dados estejam prontos para uso em análises ou campanhas operacionais.
 
 ---
@@ -80,4 +79,12 @@ Sem dados limpos:
 - Análises ficam imprecisas
 - Decisões podem ser incorretas
 - Processos operacionais são prejudicados
+
+---
+
+## Aprendizado:
+
+Este projeto foi desenvolvido acompanhando a aula disponível neste vídeo: https://youtu.be/bDhvCp3_lYw?si=bYy5zKTJTbDHcyZw.
+Ao longo do projeto, aprofundei meus conhecimentos em conceitos e técnicas importantes 
+Recomendo fortemente para quem deseja evoluir seus estudos em Data Analytics e Pandas.
 
